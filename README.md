@@ -3,6 +3,9 @@ For All Humanity.
 
 An ML-driven application designed on Python capable of assisting the primary sector of the economy, while promoting sustainability and climate change mitigation, while subsequently helping out in diversifying agriculture.
 
+## To run the program
+Run main.py
+
 
 ## Crops available:
 Enter the crop name in the given spelling and case to get accurate results.
